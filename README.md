@@ -24,9 +24,14 @@ The mobile code of a mobile number is its first four digits and they always star
 Telemarketers' numbers have no parentheses or space, but start with the code 140. Example: "1402316533".
 ```
 
-## Step 2 - Code Implementation
+## Code Implementation
 Complete the five tasks (Task0.py, Task1.py, ...,Task4.py). 
 Do not change the data or instructions, simply add your code below what has been provided. 
 Include all the code that you need for each task in that file.
 
 The solution outputs for each file should be the print statements described in the instructions. 
+
+## Calculate Big O
+Once you have completed your solution for each problem, perform a run time analysis (Worst Case Big-O Notation) of your solution. 
+
+The documentation of the big O notation is added as `Explanation` to each solution.
